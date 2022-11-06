@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Vishesh",
+      "email": "v@gmail.com",
+      "phone": 1234,
+      "dob": "12-05-1996",
+      "gender": "Male",
+      "hobbies": [
+      "Poetry,Travelling"
+      ]
+      },
+    {
+      "id": 2,
+      "name": "Vishesh",
+      "email": "v@gmail.com",
+      "phone": 1234,
+      "dob": "12-05-1996",
+      "gender": "Male",
+      "hobbies": [
+        "Poetry,Travelling"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Vishesh",
+      "email": "v@gmail.com",
+      "phone": 1234,
+      "dob": "12-05-1996",
+      "gender": "Male",
+      "hobbies": [
+        "Poetry,Travelling"
+      ]
+    }
+  ]
+}
